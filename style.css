@@ -1,0 +1,48 @@
+body {background-color:red; }
+	p {color:red;}
+	
+	
+
+
+
+p#s1{
+
+    border:1px solid grey;
+    padding:10px;
+    margin:30px;
+	color:lightpink;
+	
+}
+
+p#s2{
+	border:1px solid blue;
+	padding:5px;
+	margin:15px;
+	color:lightblue;
+	
+	
+}
+
+p#s3{
+	border:1px solid yellow;
+	padding:4px;
+	margin:15px;
+	color:lightgreen
+	
+}
+
+p#s4{
+	border:1px solid orange;
+	padding:4px;
+	margin:15px;
+	color:purple;
+	
+}
+p#5{
+	border:1px solid green;
+	padding:4px;
+	margin:15px;
+	color:red;
+}
+
+}
